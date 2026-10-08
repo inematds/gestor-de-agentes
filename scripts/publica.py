@@ -22,6 +22,13 @@ META = {
         title='De construtor a consultor',
         lead='Para profissionais de IA e devs: quando construir vira commodity, o valor está em quatro papéis — consultor, '
              'quem acompanha, mentor e auditor — e em cinco coisas para aprender, nenhuma delas uma ferramenta.'),
+    'empresas-2027': dict(
+        h1='Anthropic e as empresas de sucesso em 2027: <b>pessoas, processos e agentes.</b>',
+        title='Anthropic e as empresas de 2027',
+        lead='Em 2025, um engenheiro da OpenAI tinha oito vezes mais chance de ir para a Anthropic do que o contrário. '
+             'O vídeo mostra o que a Anthropic faz com as pessoas e com a própria IA — a constituição do Claude — e o que isso '
+             'ensina sobre gerir pessoas, processos e agentes em 2027, com a constituição do seu agente e o ciclo que o melhora.',
+        curso=('https://inematds.github.io/empresas-2027-v62/', 'Empresas de 2027 v6.2 (curso, 9 aulas)')),
 }
 
 ID = sys.argv[1]
@@ -82,6 +89,7 @@ def main():
     folder = REPO / 'videos'; folder.mkdir(exist_ok=True)
     (folder / 'completo.vtt').write_text('WEBVTT\n\n' + re.sub(r'(\d\d:\d\d:\d\d),(\d{3})', r'\1.\2', v['srt'].read_text()))
     caps = ''.join(f'<button type="button" data-time="{s}">{s // 60:02d}:{s % 60:02d} · {html.escape(c)}</button>' for s, c in v['chapters'])
+    curso = f'Curso do mesmo tema: <a href="{M["curso"][0]}">{html.escape(M["curso"][1])}</a>. ' if 'curso' in M else ''
     page = f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(M["title"])} · INEMA.CLUB</title><meta name="description" content="{html.escape(M["lead"])}">
 <style>:root{{color-scheme:dark}}*{{box-sizing:border-box}}body{{margin:0;background:#0D1321;color:#F0EBD8;font:18px/1.6 system-ui,sans-serif}}main{{max-width:1100px;margin:auto;padding:32px 16px}}
@@ -97,7 +105,7 @@ summary{{cursor:pointer;color:#FFC300;margin-top:8px}}button{{display:block;back
 <video controls preload="metadata" playsinline><source src="{BASE}{v["name"]}.mp4" type="video/mp4"><track default kind="subtitles" src="completo.vtt" srclang="pt" label="Português"></video>
 <p><a href="{BASE}{v["name"]}.mp4">Baixar MP4</a> · <a href="{BASE}{v["name"]}.srt">Baixar legendas</a></p>
 <details open><summary>Capítulos</summary>{caps}</details></section>
-<footer>Produzido com o <a href="https://inematds.github.io/explicavideos/guia/">Explicavideos v2</a>. Para começar: <a href="https://inematds.github.io/oswork/">OSWork</a> · <a href="https://inematds.github.io/curso-7pa/">Gestão de Agentes — os 7 princípios</a> · <a href="https://eventos.inema.pro/gestao-ia/">Gestão de IA e Agentes</a>. Conteúdo aberto e gratuito do <a href="https://inema.club">INEMA.CLUB</a>.</footer></main>
+<footer>Produzido com o <a href="https://inematds.github.io/explicavideos/guia/">Explicavideos v2</a>. {curso}Para começar: <a href="https://inematds.github.io/oswork/">OSWork</a> · <a href="https://inematds.github.io/curso-7pa/">Gestão de Agentes — os 7 princípios</a> · <a href="https://eventos.inema.pro/gestao-ia/">Gestão de IA e Agentes</a>. Conteúdo aberto e gratuito do <a href="https://inema.club">INEMA.CLUB</a>.</footer></main>
 <script>document.querySelectorAll('[data-time]').forEach(b=>b.addEventListener('click',()=>{{const v=b.closest('.card').querySelector('video');v.currentTime=Number(b.dataset.time);v.play();}}));</script></body></html>
 '''
     (folder / 'index.html').write_text(page)
