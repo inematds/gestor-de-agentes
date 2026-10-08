@@ -1,0 +1,1789 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.880
+Imagine que o seu cliente consegue usar
+
+2
+00:00:01.880 --> 00:00:03.740
+os mesmos agentes que você usa.
+
+3
+00:00:03.740 --> 00:00:06.200
+Que ele mesmo consegue montar uma automação.
+
+4
+00:00:06.200 --> 00:00:08.260
+Que o agente programa para ele.
+
+5
+00:00:08.260 --> 00:00:09.920
+Então por que ele vai continuar pagando
+
+6
+00:00:09.920 --> 00:00:10.360
+você?
+
+7
+00:00:10.360 --> 00:00:12.420
+Essa é a pergunta que muita gente
+
+8
+00:00:12.420 --> 00:00:13.780
+que trabalha com automação,
+
+9
+00:00:13.780 --> 00:00:14.700
+agentes,
+
+10
+00:00:14.700 --> 00:00:15.640
+consultoria,
+
+11
+00:00:15.640 --> 00:00:18.420
+tecnologia ou gestão ainda não está se
+
+12
+00:00:18.420 --> 00:00:18.960
+fazendo.
+
+13
+00:00:18.960 --> 00:00:19.980
+E eu acho que é uma das
+
+14
+00:00:19.980 --> 00:00:23.080
+mudanças mais importantes deste momento.
+
+15
+00:00:23.420 --> 00:00:24.900
+Então vamos por partes.
+
+16
+00:00:24.900 --> 00:00:26.120
+Nos últimos anos,
+
+17
+00:00:26.120 --> 00:00:28.640
+quem entrou cedo nesse mercado teve duas
+
+18
+00:00:28.640 --> 00:00:30.000
+grandes vantagens.
+
+19
+00:00:30.000 --> 00:00:31.820
+A primeira era técnica.
+
+20
+00:00:31.820 --> 00:00:33.700
+Você sabia conectar uma API.
+
+21
+00:00:33.700 --> 00:00:34.640
+Configurar
+
+22
+00:00:34.640 --> 00:00:35.240
+um agente.
+
+23
+00:00:35.240 --> 00:00:37.320
+Ligar o CRM com o WhatsApp.
+
+24
+00:00:37.320 --> 00:00:39.360
+Trabalhar com webhook,
+
+25
+00:00:39.360 --> 00:00:40.340
+banco de dados,
+
+26
+00:00:40.340 --> 00:00:41.360
+servidor,
+
+27
+00:00:41.360 --> 00:00:42.480
+VPS.
+
+28
+00:00:42.480 --> 00:00:44.460
+E fazer tudo isso funcionar de um
+
+29
+00:00:44.460 --> 00:00:46.100
+jeito minimamente confiável.
+
+30
+00:00:46.100 --> 00:00:47.540
+O cliente não sabia.
+
+31
+00:00:47.540 --> 00:00:49.640
+Então ele precisava de você.
+
+32
+00:00:49.640 --> 00:00:51.700
+Mas existia uma segunda vantagem,
+
+33
+00:00:51.700 --> 00:00:52.580
+ainda maior.
+
+34
+00:00:52.580 --> 00:00:54.980
+Você sabia muito mais sobre inteligência artificial
+
+35
+00:00:54.980 --> 00:00:56.440
+do que o seu cliente.
+
+36
+00:00:56.440 --> 00:01:00.000
+Você estudava IA todos os dias,
+
+37
+00:01:00.000 --> 00:01:01.860
+enquanto o empresário ainda perguntava:
+
+38
+00:01:01.860 --> 00:01:05.080
+“Mas o ChatGPT consegue fazer isso?” Essa
+
+39
+00:01:05.080 --> 00:01:07.440
+diferença de conhecimento valia dinheiro.
+
+40
+00:01:07.440 --> 00:01:09.440
+Quanto maior a distância entre o que
+
+41
+00:01:09.440 --> 00:01:11.060
+você sabia e o que o cliente
+
+42
+00:01:11.060 --> 00:01:13.460
+sabia, maior o valor que você entregava.
+
+43
+00:01:13.460 --> 00:01:15.200
+E maior o valor que você conseguia
+
+44
+00:01:15.200 --> 00:01:15.840
+cobrar.
+
+45
+00:01:15.840 --> 00:01:18.200
+O problema é que as duas vantagens
+
+46
+00:01:18.200 --> 00:01:19.680
+estão mudando ao mesmo tempo.
+
+47
+00:01:19.680 --> 00:01:22.820
+Primeira mudança: a dificuldade técnica está caindo.
+
+48
+00:01:22.820 --> 00:01:24.240
+Há pouco tempo,
+
+49
+00:01:24.240 --> 00:01:25.440
+automatizar
+
+50
+00:01:25.440 --> 00:01:26.740
+uma empresa exigia
+
+51
+00:01:26.740 --> 00:01:28.740
+alguém que entendesse documentação de API,
+
+52
+00:01:28.740 --> 00:01:29.880
+autenticação,
+
+53
+00:01:29.880 --> 00:01:31.060
+infraestrutura,
+
+54
+00:01:31.060 --> 00:01:32.120
+integrações
+
+55
+00:01:32.120 --> 00:01:33.260
+e banco de dados.
+
+56
+00:01:33.260 --> 00:01:35.420
+Hoje você chega para um agente e
+
+57
+00:01:35.420 --> 00:01:36.980
+diz: “Analise
+
+58
+00:01:37.980 --> 00:01:40.800
+esse processo e construa uma solução.” E
+
+59
+00:01:40.800 --> 00:01:41.640
+ele começa.
+
+60
+00:01:41.640 --> 00:01:42.260
+Pesquisa.
+
+61
+00:01:42.260 --> 00:01:43.060
+Programa.
+
+62
+00:01:43.060 --> 00:01:43.640
+Testa.
+
+63
+00:01:43.640 --> 00:01:44.400
+Corrige.
+
+64
+00:01:44.400 --> 00:01:45.180
+Integra.
+
+65
+00:01:45.180 --> 00:01:47.460
+E cada nova geração de modelos faz
+
+66
+00:01:47.460 --> 00:01:48.560
+isso melhor do que a anterior.
+
+67
+00:01:48.560 --> 00:01:51.940
+Não, ainda não funciona tudo perfeitamente.
+
+68
+00:01:51.940 --> 00:01:53.380
+Mas olhe a direção.
+
+69
+00:01:53.380 --> 00:01:56.080
+A parte técnica está ficando mais barata,
+
+70
+00:01:56.080 --> 00:01:57.440
+mais rápida e,
+
+71
+00:01:57.440 --> 00:01:59.160
+principalmente, mais acessível.
+
+72
+00:01:59.160 --> 00:02:02.100
+A segunda mudança é ainda mais importante.
+
+73
+00:02:02.100 --> 00:02:04.220
+O seu cliente também está aprendendo.
+
+74
+00:02:04.220 --> 00:02:07.580
+Hoje você provavelmente ainda sabe muito mais
+
+75
+00:02:07.580 --> 00:02:10.200
+sobre IA do que a maioria dos
+
+76
+00:02:10.200 --> 00:02:11.320
+empresários.
+
+77
+00:02:11.320 --> 00:02:14.140
+Mas essa distância está encolhendo rápido.
+
+78
+00:02:14.140 --> 00:02:15.960
+Ele já usa o ChatGPT.
+
+79
+00:02:15.960 --> 00:02:17.920
+Já testou o Claude.
+
+80
+00:02:17.920 --> 00:02:19.780
+Já fez uma pesquisa profunda,
+
+81
+00:02:19.780 --> 00:02:20.980
+gerou
+
+82
+00:02:21.040 --> 00:02:22.920
+uma imagem, talvez um vídeo.
+
+83
+00:02:22.920 --> 00:02:25.360
+Daqui a pouco ele estará usando agentes
+
+84
+00:02:25.360 --> 00:02:26.800
+dentro da própria empresa.
+
+85
+00:02:26.800 --> 00:02:28.980
+E é bem possível que em 2027
+
+86
+00:02:28.980 --> 00:02:31.080
+a diferença entre o que você sabe
+
+87
+00:02:31.080 --> 00:02:32.060
+e o que o seu cliente sabe
+
+88
+00:02:32.060 --> 00:02:33.800
+seja muito menor.
+
+89
+00:02:33.800 --> 00:02:34.700
+Não igual.
+
+90
+00:02:34.700 --> 00:02:36.020
+Mas muito menor.
+
+91
+00:02:36.020 --> 00:02:38.640
+E aí volta aquela pergunta desconfortável do
+
+92
+00:02:38.640 --> 00:02:40.840
+começo: se ele também consegue,
+
+93
+00:02:40.840 --> 00:02:42.360
+por que vai pagar você?
+
+94
+00:02:42.360 --> 00:02:43.600
+Isso não é novidade.
+
+95
+00:02:43.600 --> 00:02:44.860
+Já aconteceu antes.
+
+96
+00:02:44.860 --> 00:02:46.360
+Pense em criação de sites.
+
+97
+00:02:46.360 --> 00:02:50.160
+Anos atrás, fazer um site exigia HTML,
+
+98
+00:02:50.160 --> 00:02:52.600
+CSS, servidor, hospedagem,
+
+99
+00:02:52.600 --> 00:02:54.160
+DNS, programação.
+
+100
+00:02:54.160 --> 00:02:56.800
+Quem sabia fazer tinha uma habilidade rara.
+
+101
+00:02:56.800 --> 00:02:58.200
+Depois chegaram o WordPress,
+
+102
+00:02:58.200 --> 00:03:00.480
+o Wix e várias outras ferramentas.
+
+103
+00:03:00.480 --> 00:03:03.920
+E hoje praticamente qualquer pessoa consegue colocar
+
+104
+00:03:03.920 --> 00:03:05.400
+um site no ar.
+
+105
+00:03:05.400 --> 00:03:06.860
+O mercado de sites acabou?
+
+106
+00:03:06.860 --> 00:03:08.000
+Não.
+
+107
+00:03:08.000 --> 00:03:10.340
+Mas fazer um site simples deixou de
+
+108
+00:03:10.340 --> 00:03:11.220
+ser extraordinário.
+
+109
+00:03:11.220 --> 00:03:12.660
+Virou commodity.
+
+110
+00:03:12.660 --> 00:03:14.260
+E quem continuou ganhando bem?
+
+111
+00:03:14.260 --> 00:03:16.240
+Quem ficou muito bom em outra coisa.
+
+112
+00:03:16.240 --> 00:03:17.180
+Design.
+
+113
+00:03:17.180 --> 00:03:18.380
+Marca.
+
+114
+00:03:19.120 --> 00:03:20.240
+Conversão.
+
+115
+00:03:20.240 --> 00:03:21.400
+Vendas.
+
+116
+00:03:21.400 --> 00:03:23.180
+Conhecimento profundo de um setor.
+
+117
+00:03:23.180 --> 00:03:25.060
+A tecnologia virou
+
+118
+00:03:25.060 --> 00:03:26.800
+só uma parte da entrega.
+
+119
+00:03:26.800 --> 00:03:28.720
+Eu acredito que a mesma coisa está
+
+120
+00:03:28.720 --> 00:03:30.700
+acontecendo agora com agentes.
+
+121
+00:03:30.700 --> 00:03:32.260
+E aqui tem um ponto que eu
+
+122
+00:03:32.260 --> 00:03:33.280
+considero fundamental.
+
+123
+00:03:33.280 --> 00:03:36.630
+O problema não é a IA melhorar.
+
+124
+00:03:36.630 --> 00:03:39.460
+O problema é você continuar igual enquanto
+
+125
+00:03:39.460 --> 00:03:41.140
+a IA melhora.
+
+126
+00:03:41.140 --> 00:03:42.620
+Pense numa escada.
+
+127
+00:03:42.620 --> 00:03:45.140
+Você está alguns degraus acima da média
+
+128
+00:03:45.140 --> 00:03:45.940
+das pessoas.
+
+129
+00:03:45.940 --> 00:03:47.380
+Existe uma boa distância.
+
+130
+00:03:47.380 --> 00:03:49.760
+Só que essa escada tem um piso.
+
+131
+00:03:49.760 --> 00:03:51.520
+E o piso está subindo.
+
+132
+00:03:51.520 --> 00:03:52.920
+Os modelos melhoram.
+
+133
+00:03:52.920 --> 00:03:54.380
+As ferramentas melhoram.
+
+134
+00:03:54.380 --> 00:03:55.680
+As pessoas aprendem.
+
+135
+00:03:55.680 --> 00:03:57.700
+Se você ficar parado no mesmo degrau,
+
+136
+00:03:57.700 --> 00:03:58.900
+tecnicamente
+
+137
+00:03:58.960 --> 00:03:59.740
+você não piorou.
+
+138
+00:03:59.740 --> 00:04:01.460
+Mas em relação ao mercado,
+
+139
+00:04:01.460 --> 00:04:02.600
+você caiu.
+
+140
+00:04:02.600 --> 00:04:05.100
+Por isso não basta continuar aprendendo.
+
+141
+00:04:05.100 --> 00:04:08.160
+Você precisa aprender mais rápido do que
+
+142
+00:04:08.160 --> 00:04:09.260
+o piso sobe.
+
+143
+00:04:09.260 --> 00:04:11.060
+Aí alguém pode perguntar:
+
+144
+00:04:11.060 --> 00:04:13.540
+“Nei, então trabalhar com automação e agentes
+
+145
+00:04:13.540 --> 00:04:15.360
+vai perder o valor?” Eu acho exatamente
+
+146
+00:04:15.360 --> 00:04:16.160
+o contrário.
+
+147
+00:04:16.160 --> 00:04:18.660
+Essa transformação não está acontecendo só com
+
+148
+00:04:18.660 --> 00:04:19.900
+quem trabalha com automação.
+
+149
+00:04:19.900 --> 00:04:21.940
+Está acontecendo com contador,
+
+150
+00:04:21.940 --> 00:04:22.860
+advogado,
+
+151
+00:04:22.860 --> 00:04:25.180
+programador, marketing, atendimento,
+
+152
+00:04:25.180 --> 00:04:26.380
+RH.
+
+153
+00:04:26.600 --> 00:04:30.100
+Praticamente todo trabalho intelectual está sendo atingido.
+
+154
+00:04:30.100 --> 00:04:31.980
+Então, se
+
+155
+00:04:32.060 --> 00:04:34.800
+existe uma indústria boa para estar agora,
+
+156
+00:04:34.800 --> 00:04:37.060
+é justamente a que está fazendo essa
+
+157
+00:04:37.060 --> 00:04:38.480
+transformação acontecer.
+
+158
+00:04:38.480 --> 00:04:41.060
+Nós estamos construindo os sistemas que vão
+
+159
+00:04:41.060 --> 00:04:43.460
+automatizar parte do trabalho de todas as
+
+160
+00:04:43.460 --> 00:04:44.580
+outras áreas.
+
+161
+00:04:44.580 --> 00:04:46.460
+O mercado continua gigantesco.
+
+162
+00:04:46.460 --> 00:04:48.360
+O que muda é o trabalho que
+
+163
+00:04:48.360 --> 00:04:49.233
+a gente vai fazer.
+
+164
+00:04:49.240 --> 00:04:50.980
+E aqui começa a parte mais importante
+
+165
+00:04:50.980 --> 00:04:52.100
+deste vídeo.
+
+166
+00:04:52.100 --> 00:04:54.500
+Até agora, muita gente ganhou dinheiro dizendo:
+
+167
+00:04:54.500 --> 00:04:56.980
+“Eu construo a sua automação.” “Eu crio
+
+168
+00:04:56.980 --> 00:04:58.820
+o seu agente.” “Eu conecto os seus
+
+169
+00:04:58.820 --> 00:05:01.240
+sistemas.” Isso vai continuar existindo.
+
+170
+00:05:01.240 --> 00:05:03.440
+Mas cada vez mais o próprio agente
+
+171
+00:05:03.440 --> 00:05:05.760
+vai fazer boa parte dessa construção.
+
+172
+00:05:05.880 --> 00:05:08.340
+Então o valor sobe uma camada.
+
+173
+00:05:08.340 --> 00:05:09.960
+A pergunta deixa de ser:
+
+174
+00:05:09.960 --> 00:05:12.620
+“Você sabe construir?” E passa a ser:
+
+175
+00:05:12.620 --> 00:05:15.280
+“O que devemos construir?” Parece uma mudança
+
+176
+00:05:15.280 --> 00:05:15.820
+pequena.
+
+177
+00:05:15.820 --> 00:05:17.180
+É gigantesca.
+
+178
+00:05:17.180 --> 00:05:19.820
+Porque, num mundo onde quase tudo pode
+
+179
+00:05:19.820 --> 00:05:21.820
+ser construído rápido,
+
+180
+00:05:22.180 --> 00:05:25.280
+construir deixa de ser o gargalo.
+
+181
+00:05:25.280 --> 00:05:28.360
+O gargalo passa a ser decidir.
+
+182
+00:05:28.530 --> 00:05:30.400
+Qual problema vale a pena resolver?
+
+183
+00:05:30.400 --> 00:05:32.440
+Qual processo mudar primeiro?
+
+184
+00:05:32.440 --> 00:05:34.100
+Onde está o desperdício?
+
+185
+00:05:34.100 --> 00:05:35.860
+Onde está a oportunidade?
+
+186
+00:05:35.860 --> 00:05:37.500
+O que fica com uma pessoa,
+
+187
+00:05:37.500 --> 00:05:39.080
+o que vai para um agente,
+
+188
+00:05:39.080 --> 00:05:42.060
+o que continua sendo uma automação tradicional?
+
+189
+00:05:42.060 --> 00:05:44.160
+Onde a pessoa e o agente trabalham
+
+190
+00:05:44.160 --> 00:05:44.420
+juntos?
+
+191
+00:05:44.420 --> 00:05:47.940
+E qual atividade simplesmente deveria desaparecer?
+
+192
+00:05:47.940 --> 00:05:49.400
+Isso tem nome.
+
+193
+00:05:49.400 --> 00:05:50.360
+Isso é gestão.
+
+194
+00:05:50.360 --> 00:05:51.480
+E é por isso que eu venho
+
+195
+00:05:51.480 --> 00:05:53.260
+dizendo há bastante tempo:
+
+196
+00:05:53.260 --> 00:05:55.600
+quem sabe fazer gestão de pessoas tem
+
+197
+00:05:55.600 --> 00:05:58.240
+uma enorme vantagem para aprender gestão de
+
+198
+00:05:58.240 --> 00:05:59.340
+agentes.
+
+199
+00:05:59.340 --> 00:06:02.400
+Pense no que um bom gestor precisa
+
+200
+00:06:02.400 --> 00:06:03.020
+saber.
+
+201
+00:06:03.020 --> 00:06:04.900
+Qual é o objetivo.
+
+202
+00:06:04.900 --> 00:06:06.220
+Quais são as prioridades.
+
+203
+00:06:06.220 --> 00:06:08.200
+Quem faz cada coisa.
+
+204
+00:06:08.200 --> 00:06:11.080
+Que informação essa pessoa precisa e que
+
+205
+00:06:11.080 --> 00:06:12.240
+recursos ela pode usar.
+
+206
+00:06:12.240 --> 00:06:13.180
+Quanta
+
+207
+00:06:13.180 --> 00:06:14.540
+autonomia ela tem.
+
+208
+00:06:14.540 --> 00:06:15.980
+Como medir o resultado,
+
+209
+00:06:15.980 --> 00:06:19.320
+quando intervir, como dar feedback e como
+
+210
+00:06:19.320 --> 00:06:21.020
+melhorar o processo.
+
+211
+00:06:21.020 --> 00:06:23.760
+Agora troque a palavra pessoa por agente.
+
+212
+00:06:23.760 --> 00:06:25.620
+Qual é o objetivo do agente?
+
+213
+00:06:25.620 --> 00:06:27.340
+Que contexto ele recebe?
+
+214
+00:06:27.340 --> 00:06:29.240
+Que ferramentas ele pode usar?
+
+215
+00:06:29.240 --> 00:06:31.060
+O que ele faz sozinho e o
+
+216
+00:06:31.060 --> 00:06:32.420
+que precisa de aprovação?
+
+217
+00:06:32.420 --> 00:06:34.680
+Como a gente avalia a resposta dele,
+
+218
+00:06:34.680 --> 00:06:35.520
+onde ele errou,
+
+219
+00:06:35.520 --> 00:06:37.100
+e como ele melhora amanhã?
+
+220
+00:06:37.100 --> 00:06:39.120
+É praticamente a mesma lista.
+
+221
+00:06:39.120 --> 00:06:42.160
+Isso é gestão de agentes.
+
+222
+00:06:42.540 --> 00:06:43.860
+E é aí que eu vejo um
+
+223
+00:06:43.860 --> 00:06:46.020
+erro enorme acontecendo dentro
+
+224
+00:06:46.020 --> 00:06:47.240
+das empresas.
+
+225
+00:06:47.240 --> 00:06:48.780
+Muitos gestores pensam:
+
+226
+00:06:48.780 --> 00:06:49.920
+“IA
+
+227
+00:06:49.920 --> 00:06:52.880
+é assunto do pessoal técnico.” Não é.
+
+228
+00:06:52.880 --> 00:06:55.560
+Programação pode ser do técnico.
+
+229
+00:06:55.640 --> 00:06:57.140
+Infraestrutura também.
+
+230
+00:06:57.140 --> 00:06:58.660
+Segurança especializada,
+
+231
+00:06:58.660 --> 00:06:59.820
+com certeza.
+
+232
+00:06:59.820 --> 00:07:02.460
+Mas entender agentes não dá para delegar
+
+233
+00:07:02.460 --> 00:07:03.820
+por completo.
+
+234
+00:07:04.680 --> 00:07:06.210
+Imagine um gestor,
+
+235
+00:07:06.210 --> 00:07:07.240
+vinte anos atrás,
+
+236
+00:07:07.240 --> 00:07:08.440
+dizendo:
+
+237
+00:07:08.500 --> 00:07:10.220
+“Computador é coisa da TI.
+
+238
+00:07:10.220 --> 00:07:11.120
+Eu
+
+239
+00:07:11.120 --> 00:07:11.820
+não uso e-mail,
+
+240
+00:07:11.820 --> 00:07:13.980
+a minha equipe usa por mim.” Ou:
+
+241
+00:07:13.980 --> 00:07:16.380
+“Eu não preciso entender planilha.”
+
+242
+00:07:16.780 --> 00:07:19.660
+Seria impossível administrar uma empresa moderna assim.
+
+243
+00:07:19.660 --> 00:07:20.640
+Com
+
+244
+00:07:20.640 --> 00:07:23.020
+agentes vai acontecer a mesma coisa.
+
+245
+00:07:23.020 --> 00:07:25.080
+Você não precisa virar programador.
+
+246
+00:07:25.080 --> 00:07:26.100
+Mas
+
+247
+00:07:26.100 --> 00:07:28.780
+precisa aprender a trabalhar diretamente com eles.
+
+248
+00:07:28.780 --> 00:07:31.780
+É exatamente essa a lógica dos conteúdos
+
+249
+00:07:31.780 --> 00:07:33.800
+que eu venho criando no INEMA ponto
+
+250
+00:07:33.800 --> 00:07:34.060
+club.
+
+251
+00:07:34.060 --> 00:07:35.160
+Pegue
+
+252
+00:07:35.160 --> 00:07:36.780
+o OSWork, por exemplo.
+
+253
+00:07:36.780 --> 00:07:39.080
+Tem gente que olha e pergunta:
+
+254
+00:07:39.080 --> 00:07:41.040
+“Por que um gestor precisa entrar num
+
+255
+00:07:41.040 --> 00:07:43.060
+terminal?” Não é porque eu quero transformar
+
+256
+00:07:43.060 --> 00:07:44.640
+gestor em administrador de Linux.
+
+257
+00:07:44.640 --> 00:07:46.340
+É porque o terminal está virando uma
+
+258
+00:07:46.340 --> 00:07:48.280
+das formas mais poderosas de trabalhar com
+
+259
+00:07:48.280 --> 00:07:48.880
+agentes.
+
+260
+00:07:48.880 --> 00:07:51.220
+Você precisa perder o medo desse ambiente.
+
+261
+00:07:51.220 --> 00:07:53.160
+Entender o mínimo de pastas,
+
+262
+00:07:53.160 --> 00:07:54.360
+arquivos,
+
+263
+00:07:54.500 --> 00:07:56.720
+permissões, de uma VPS.
+
+264
+00:07:56.720 --> 00:07:58.260
+E entender agentes,
+
+265
+00:07:58.260 --> 00:07:59.180
+skills,
+
+266
+00:07:59.180 --> 00:08:00.220
+contexto,
+
+267
+00:08:00.220 --> 00:08:01.720
+memória e ferramentas.
+
+268
+00:08:01.720 --> 00:08:03.400
+Não para virar técnico.
+
+269
+00:08:03.400 --> 00:08:05.140
+Para ganhar autonomia.
+
+270
+00:08:05.140 --> 00:08:06.400
+Foi o que a gente fez quando
+
+271
+00:08:06.400 --> 00:08:07.840
+os computadores chegaram.
+
+272
+00:08:07.840 --> 00:08:09.520
+Aprendemos mouse, teclado,
+
+273
+00:08:09.520 --> 00:08:10.520
+Windows.
+
+274
+00:08:10.520 --> 00:08:12.990
+Depois Word, planilha,
+
+275
+00:08:12.990 --> 00:08:14.420
+e-mail, navegador.
+
+276
+00:08:14.420 --> 00:08:17.440
+Ninguém dizia: “estou estudando ciência da computação
+
+277
+00:08:17.440 --> 00:08:19.280
+porque aprendi Excel.”
+
+278
+00:08:19.280 --> 00:08:21.320
+Você só estava aprendendo a trabalhar no
+
+279
+00:08:21.320 --> 00:08:22.080
+novo ambiente.
+
+280
+00:08:22.080 --> 00:08:24.260
+Agora estamos entrando em outro ambiente.
+
+281
+00:08:24.260 --> 00:08:25.980
+O ambiente dos agentes.
+
+282
+00:08:25.980 --> 00:08:28.160
+E aqui existe uma janela de oportunidade
+
+283
+00:08:28.160 --> 00:08:29.140
+gigantesca.
+
+284
+00:08:29.140 --> 00:08:31.520
+Hoje você ainda pode aprender com calma.
+
+285
+00:08:31.520 --> 00:08:33.920
+Pode criar um agente e errar.
+
+286
+00:08:33.920 --> 00:08:35.920
+Pode deixar ele fazer alguma coisa errada
+
+287
+00:08:35.920 --> 00:08:37.200
+e descobrir por quê.
+
+288
+00:08:37.200 --> 00:08:38.740
+Pode melhorar o contexto,
+
+289
+00:08:38.740 --> 00:08:39.820
+mudar uma regra,
+
+290
+00:08:39.820 --> 00:08:40.820
+criar uma skill,
+
+291
+00:08:40.820 --> 00:08:43.080
+destruir tudo e começar de novo.
+
+292
+00:08:43.080 --> 00:08:44.620
+Ainda dá tempo de brincar.
+
+293
+00:08:44.620 --> 00:08:46.740
+E isso é uma vantagem enorme.
+
+294
+00:08:46.740 --> 00:08:48.340
+Porque daqui a pouco você não vai
+
+295
+00:08:48.340 --> 00:08:49.940
+aprender porque quer.
+
+296
+00:08:49.940 --> 00:08:52.200
+Vai aprender porque precisa.
+
+297
+00:08:52.200 --> 00:08:54.240
+O seu concorrente vai ter agentes.
+
+298
+00:08:54.240 --> 00:08:55.600
+O seu funcionário,
+
+299
+00:08:55.600 --> 00:08:57.980
+o seu cliente e os seus fornecedores
+
+300
+00:08:57.980 --> 00:08:58.420
+também.
+
+301
+00:08:58.420 --> 00:09:00.380
+E talvez a sua empresa já dependa
+
+302
+00:09:00.380 --> 00:09:00.900
+deles.
+
+303
+00:09:00.900 --> 00:09:03.920
+Aí não vai ser mais aprendizado tranquilo.
+
+304
+00:09:03.920 --> 00:09:04.880
+Vai ser pressão.
+
+305
+00:09:05.160 --> 00:09:07.200
+Eu comparo isso com aprender a dirigir.
+
+306
+00:09:07.200 --> 00:09:09.500
+Você prefere aprender numa rua calma ou
+
+307
+00:09:09.500 --> 00:09:10.750
+no meio de uma rodovia a cento
+
+308
+00:09:10.750 --> 00:09:11.660
+e vinte por hora?
+
+309
+00:09:11.660 --> 00:09:13.380
+Hoje nós estamos na rua calma.
+
+310
+00:09:13.380 --> 00:09:15.060
+Uma rua cada vez menos calma,
+
+311
+00:09:15.060 --> 00:09:15.760
+é verdade.
+
+312
+00:09:15.760 --> 00:09:17.260
+Mas ainda estamos nela.
+
+313
+00:09:17.260 --> 00:09:19.840
+E quem aproveitar esse período vai desenvolver
+
+314
+00:09:19.840 --> 00:09:21.520
+uma coisa que não aparece em nenhum
+
+315
+00:09:21.520 --> 00:09:22.720
+certificado:
+
+316
+00:09:22.760 --> 00:09:23.660
+repertório.
+
+317
+00:09:23.660 --> 00:09:25.880
+A pessoa olha um problema e já
+
+318
+00:09:25.880 --> 00:09:29.200
+pensa: “Isso eu colocaria num agente.”
+
+319
+00:09:29.200 --> 00:09:31.840
+“Isso precisa continuar com uma pessoa.” “Esse
+
+320
+00:09:31.840 --> 00:09:34.860
+agente está com pouco contexto.” “Esse aqui
+
+321
+00:09:34.860 --> 00:09:37.440
+tem autonomia demais.” “E esse processo nem
+
+322
+00:09:37.440 --> 00:09:41.250
+deveria existir.” Essa percepção não nasce assistindo
+
+323
+00:09:41.250 --> 00:09:43.020
+palestra sobre IA.
+
+324
+00:09:43.040 --> 00:09:45.100
+Nasce trabalhando com agentes.
+
+325
+00:09:45.100 --> 00:09:46.380
+Errando com agentes.
+
+326
+00:09:46.380 --> 00:09:47.480
+Gerenciando
+
+327
+00:09:47.480 --> 00:09:48.680
+agentes.
+
+328
+00:09:49.340 --> 00:09:50.960
+Tem mais uma coisa.
+
+329
+00:09:50.960 --> 00:09:52.900
+Muita gente acha que o futuro é
+
+330
+00:09:52.900 --> 00:09:54.520
+saber usar a melhor ferramenta.
+
+331
+00:09:54.520 --> 00:09:56.140
+Eu não acredito nisso.
+
+332
+00:09:56.140 --> 00:09:58.000
+Ferramenta muda o tempo todo.
+
+333
+00:09:58.000 --> 00:09:59.040
+Hoje é uma,
+
+334
+00:09:59.040 --> 00:10:00.080
+amanhã é outra.
+
+335
+00:10:00.080 --> 00:10:03.200
+A habilidade que dura é entender processos.
+
+336
+00:10:03.200 --> 00:10:04.300
+O que entra.
+
+337
+00:10:04.300 --> 00:10:05.340
+O que acontece.
+
+338
+00:10:05.340 --> 00:10:06.460
+Quem decide.
+
+339
+00:10:06.460 --> 00:10:07.420
+Quem executa.
+
+340
+00:10:07.420 --> 00:10:08.620
+Qual
+
+341
+00:10:08.680 --> 00:10:10.100
+resultado a gente espera.
+
+342
+00:10:10.100 --> 00:10:12.380
+Onde estão os gargalos,
+
+343
+00:10:12.380 --> 00:10:15.660
+os desperdícios, os riscos e o valor.
+
+344
+00:10:15.660 --> 00:10:17.380
+Se você entende o processo,
+
+345
+00:10:17.380 --> 00:10:19.800
+consegue colocar ali uma pessoa,
+
+346
+00:10:19.800 --> 00:10:21.640
+um agente, uma automação,
+
+347
+00:10:21.640 --> 00:10:22.800
+ou os três juntos.
+
+348
+00:10:22.800 --> 00:10:25.360
+É por isso que gestão continua tão
+
+349
+00:10:25.360 --> 00:10:26.380
+importante.
+
+350
+00:10:26.380 --> 00:10:28.700
+Talvez mais importante do que nunca.
+
+351
+00:10:28.700 --> 00:10:31.640
+Durante décadas, o gestor administrou pessoas.
+
+352
+00:10:31.640 --> 00:10:34.580
+Depois passou a administrar pessoas e sistemas.
+
+353
+00:10:34.580 --> 00:10:36.920
+Agora ele vai administrar pessoas,
+
+354
+00:10:36.920 --> 00:10:38.500
+sistemas e agentes.
+
+355
+00:10:38.500 --> 00:10:40.160
+Talvez dezenas
+
+356
+00:10:40.160 --> 00:10:40.700
+de agentes.
+
+357
+00:10:40.700 --> 00:10:42.560
+Talvez centenas.
+
+358
+00:10:42.560 --> 00:10:45.160
+E isso muda profundamente a capacidade de
+
+359
+00:10:45.160 --> 00:10:45.800
+uma pessoa.
+
+360
+00:10:45.800 --> 00:10:48.420
+Um gestor que coordenava dez pessoas talvez
+
+361
+00:10:48.420 --> 00:10:50.960
+passe a coordenar dez pessoas e cinquenta
+
+362
+00:10:50.960 --> 00:10:51.600
+agentes.
+
+363
+00:10:51.600 --> 00:10:52.780
+Mas com uma condição:
+
+364
+00:10:52.780 --> 00:10:53.940
+ele
+
+365
+00:10:53.940 --> 00:10:55.840
+precisa saber gerenciar
+
+366
+00:10:55.880 --> 00:10:57.300
+essa capacidade.
+
+367
+00:10:57.300 --> 00:10:58.350
+Porque
+
+368
+00:10:58.350 --> 00:11:01.210
+cem agentes mal administrados geram
+
+369
+00:11:01.210 --> 00:11:02.560
+cem vezes mais confusão.
+
+370
+00:11:02.560 --> 00:11:04.680
+A tecnologia aumenta
+
+371
+00:11:04.680 --> 00:11:05.360
+a capacidade.
+
+372
+00:11:05.360 --> 00:11:08.140
+A gestão é que transforma capacidade em
+
+373
+00:11:08.140 --> 00:11:08.980
+resultado.
+
+374
+00:11:08.980 --> 00:11:11.660
+No passado, você tinha valor porque sabia
+
+375
+00:11:11.660 --> 00:11:12.660
+fazer.
+
+376
+00:11:12.660 --> 00:11:15.320
+Depois, porque sabia fazer melhor que o
+
+377
+00:11:15.320 --> 00:11:15.880
+cliente.
+
+378
+00:11:15.880 --> 00:11:18.440
+Agora o cliente também vai conseguir executar.
+
+379
+00:11:18.440 --> 00:11:20.360
+Então o seu valor vai estar cada
+
+380
+00:11:20.360 --> 00:11:21.900
+vez mais em saber o que fazer,
+
+381
+00:11:21.900 --> 00:11:22.880
+em que ordem,
+
+382
+00:11:22.880 --> 00:11:24.200
+por quê, com quem,
+
+383
+00:11:24.200 --> 00:11:26.480
+e principalmente o que não fazer.
+
+384
+00:11:26.480 --> 00:11:28.240
+E isso é muito mais difícil de
+
+385
+00:11:28.240 --> 00:11:30.860
+automatizar do que conectar duas APIs.
+
+386
+00:11:30.860 --> 00:11:33.080
+Então, como começar de verdade?
+
+387
+00:11:33.080 --> 00:11:35.440
+Eu sugiro um exercício simples para esta
+
+388
+00:11:35.440 --> 00:11:36.640
+semana.
+
+389
+00:11:36.640 --> 00:11:38.160
+Pegue um processo seu.
+
+390
+00:11:38.160 --> 00:11:39.460
+Um só.
+
+391
+00:11:39.460 --> 00:11:41.640
+Uma coisa que você ou a sua
+
+392
+00:11:41.640 --> 00:11:43.080
+equipe faz toda semana.
+
+393
+00:11:43.080 --> 00:11:45.460
+E responda, por escrito,
+
+394
+00:11:45.460 --> 00:11:47.680
+as mesmas perguntas que você faria para
+
+395
+00:11:47.680 --> 00:11:48.780
+um funcionário novo.
+
+396
+00:11:48.780 --> 00:11:51.680
+Qual é o objetivo dessa tarefa?
+
+397
+00:11:51.680 --> 00:11:54.280
+Que contexto e que informações são
+
+398
+00:11:54.280 --> 00:11:55.280
+necessárias?
+
+399
+00:11:55.280 --> 00:11:57.580
+Que ferramentas podem ser usadas?
+
+400
+00:11:57.580 --> 00:11:59.540
+O que pode ser feito sozinho e
+
+401
+00:11:59.540 --> 00:12:01.340
+o que precisa da sua aprovação?
+
+402
+00:12:01.340 --> 00:12:02.920
+E como você vai saber se ficou
+
+403
+00:12:02.920 --> 00:12:03.460
+bom?
+
+404
+00:12:03.460 --> 00:12:05.620
+Depois entregue isso para um agente e
+
+405
+00:12:05.620 --> 00:12:06.160
+observe.
+
+406
+00:12:06.160 --> 00:12:08.180
+Ele vai errar em alguma coisa.
+
+407
+00:12:08.180 --> 00:12:09.540
+E é aí que você aprende.
+
+408
+00:12:09.540 --> 00:12:10.860
+Ajuste o contexto,
+
+409
+00:12:10.860 --> 00:12:11.940
+ajuste a regra,
+
+410
+00:12:11.940 --> 00:12:13.240
+e rode de novo.
+
+411
+00:12:13.240 --> 00:12:13.800
+Pronto.
+
+412
+00:12:13.800 --> 00:12:15.960
+Você acabou de fazer gestão de agentes.
+
+413
+00:12:15.960 --> 00:12:17.800
+Por isso eu não acho que estamos
+
+414
+00:12:17.800 --> 00:12:19.180
+chegando ao fim da automação.
+
+415
+00:12:19.180 --> 00:12:20.900
+Estamos chegando ao fim de uma fase.
+
+416
+00:12:20.900 --> 00:12:23.500
+A fase em que saber conectar ferramentas
+
+417
+00:12:23.500 --> 00:12:25.420
+bastava para ser especialista.
+
+418
+00:12:25.420 --> 00:12:28.040
+Agora começa a fase da gestão.
+
+419
+00:12:28.040 --> 00:12:29.400
+Gestão de processos.
+
+420
+00:12:29.400 --> 00:12:30.520
+De pessoas.
+
+421
+00:12:30.520 --> 00:12:31.400
+De agentes.
+
+422
+00:12:31.400 --> 00:12:32.920
+Da capacidade.
+
+423
+00:12:32.920 --> 00:12:34.520
+Os agentes vão continuar melhorando.
+
+424
+00:12:34.520 --> 00:12:37.560
+Os modelos vão continuar ficando mais baratos.
+
+425
+00:12:37.560 --> 00:12:39.540
+Isso você não controla.
+
+426
+00:12:39.540 --> 00:12:41.140
+O que você controla é o quanto
+
+427
+00:12:41.140 --> 00:12:43.200
+entende esse novo ambiente antes que ele
+
+428
+00:12:43.200 --> 00:12:44.280
+se torne obrigatório.
+
+429
+00:12:44.280 --> 00:12:46.660
+Então não fique só assistindo vídeos sobre
+
+430
+00:12:46.660 --> 00:12:47.460
+agentes.
+
+431
+00:12:47.460 --> 00:12:49.080
+Use agentes.
+
+432
+00:12:49.080 --> 00:12:51.320
+Não fique só lendo sobre terminal.
+
+433
+00:12:51.320 --> 00:12:52.600
+Entre no terminal.
+
+434
+00:12:52.600 --> 00:12:54.700
+Não fique só ouvindo falar de VPS.
+
+435
+00:12:54.700 --> 00:12:55.560
+Suba uma.
+
+436
+00:12:55.560 --> 00:12:58.200
+E não espere a sua empresa obrigar
+
+437
+00:12:58.200 --> 00:12:59.520
+você a aprender.
+
+438
+00:12:59.520 --> 00:13:03.020
+Aprenda enquanto ainda tem tempo para errar.
+
+439
+00:13:03.020 --> 00:13:05.120
+Porque quando todo mundo perceber que precisa,
+
+440
+00:13:05.120 --> 00:13:06.740
+a vantagem vai ser de quem começou
+
+441
+00:13:06.740 --> 00:13:07.020
+antes.
+
+442
+00:13:07.020 --> 00:13:08.800
+O gestor do futuro não vai ser
+
+443
+00:13:08.800 --> 00:13:09.880
+só gestor de pessoas.
+
+444
+00:13:09.880 --> 00:13:11.440
+Vai ser gestor de pessoas,
+
+445
+00:13:11.440 --> 00:13:13.220
+processos e agentes.
+
+446
+00:13:13.220 --> 00:13:15.380
+E esse futuro não está distante.
+
+447
+00:13:15.380 --> 00:13:16.440
+Ele já começou.
