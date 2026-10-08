@@ -53,7 +53,13 @@ def main():
     assert len(rec['chapters']) == len(scenes)
     v = dict(file=full, srt=full.with_suffix('.srt'), name=f'{ID}-completo-16x9',
              chapters=[(int(c['time']), scenes[c['scene'] - 1]['title']) for c in rec['chapters']])
-    v['duration'] = dur(full)
+    gancho = V2 / f'final/{ID}-pt-gancho.json'  # 08/10/2026: versão com abertura de gancho (output/gestor-de-agentes/gancho/)
+    if gancho.exists():
+        gk = json.loads(gancho.read_text())
+        assert Path(gk['file']).stat().st_size == gk['bytes'] and gk['decode_errors'] == '' and len(gk['chapters']) == len(scenes)
+        v.update(file=Path(gk['file']), srt=Path(gk['srt']),
+                 chapters=[(int(c['time']), scenes[c['scene'] - 1]['title']) for c in gk['chapters']])
+    v['duration'] = dur(v['file'])
     d = f"{int(v['duration'] // 60)}min{int(v['duration'] % 60):02d}s"
     stage = OUT / 'release'; stage.mkdir(exist_ok=True)
     assets = []
@@ -100,7 +106,8 @@ summary{{cursor:pointer;color:#FFC300;margin-top:8px}}button{{display:block;back
     g = lambda *a: sh('git', '-c', 'user.name=inematds', '-c', 'user.email=inematds@gmail.com', *a, cwd=REPO)
     g('add', '-A')
     if subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=REPO).returncode:
-        g('commit', '-m', f'feat: {M["title"]} em vídeo (v2)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>')
+        msg = f'feat: abertura com gancho (thumb + imagem + frase de impacto) em {M["title"]}' if gancho.exists() else f'feat: {M["title"]} em vídeo (v2)'
+        g('commit', '-m', f'{msg}\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>')
         g('push', '-q', 'origin', 'HEAD:main')
     sh('gh', 'release', 'edit', TAG, '--repo', GH, '--draft=false')
     with urllib.request.urlopen(urllib.request.Request(BASE + v['name'] + '.mp4', method='HEAD'), timeout=60) as r:
