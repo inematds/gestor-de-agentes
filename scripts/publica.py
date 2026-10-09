@@ -36,6 +36,14 @@ META = {
              'consultoria de IA, os dois chapéus de consultor e mentor, uma consultoria em cinco passos com um exemplo de clínica, '
              'como se preparar a partir de agora e os três erros que derrubam.',
         curso=('https://eventos.inema.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
+    'consultoria-ia-caminhos': dict(
+        h1='Consultoria de IA: <b>24 cursos e 10 kits, e como usar no trabalho e no cliente.</b>',
+        title='Consultoria de IA: cursos e kits',
+        lead='O seu cliente já tem o mesmo agente que você: em 2027 cobra quem sabe o que fazer com ele. O vídeo mostra os três grupos '
+             'de cursos da área Consultoria de IA (tornar-se consultor, vender, entregar e auditar), onde aplicar cada um, o que são os '
+             'kits abertos e como usá-los no seu negócio, no cliente e dentro da empresa, e termina com o primeiro entregável: '
+             'um diagnóstico de uma página.',
+        curso=('https://eventos.inema.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
 }
 
 ID = sys.argv[1]
