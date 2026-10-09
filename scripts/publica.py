@@ -44,6 +44,21 @@ META = {
              'kits abertos e como usá-los no seu negócio, no cliente e dentro da empresa, e termina com o primeiro entregável: '
              'um diagnóstico de uma página.',
         curso=('https://eventos.inema.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
+    'oswork-terminal': dict(
+        h1='O gestor que domina o terminal: <b>OSWork na prática, comando por comando.</b>',
+        title='OSWork: o terminal na prática',
+        lead='Os agentes de IA trabalham no terminal, e quem não sabe abrir um não consegue nem ver o que o agente fez. O vídeo faz '
+             'os 17 passos do OSWork copiando e colando: terminal e pastas no Windows, o Claude Code ou o Codex dentro da pasta do '
+             'projeto, Git e chave SSH, o site publicado no GitHub Pages e o mesmo projeto rodando numa VPS.',
+        curso=('https://eventos.inema.pro/oswork/#comece', 'página OSWork com a cola de comandos')),
+    'gestao-ia-caminhos': dict(
+        h1='Gestão de IA: <b>8 competências, cursos e projetos, e como usar na sua empresa.</b>',
+        title='Gestão de IA: cursos e projetos',
+        lead='Montar um agente leva uma tarde; gerenciar é o que trava a empresa. O vídeo mostra o que muda na gestão, a tese '
+             '(gerenciar agentes é gestão de pessoas com mais medida), por que o processo não é sagrado, a constituição por agente, '
+             'as 8 competências do gestor de IA, os cursos e os projetos abertos da área Gestão de IA e como usar no trabalho, na '
+             'equipe e na empresa, e termina com o primeiro exercício: um processo desmontado.',
+        curso=('https://eventos.inema.pro/gestao-ia/', 'área Gestão de IA (cursos, projetos e vídeos)')),
 }
 
 ID = sys.argv[1]
