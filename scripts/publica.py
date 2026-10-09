@@ -59,6 +59,15 @@ META = {
              'as 8 competências do gestor de IA, os cursos e os projetos abertos da área Gestão de IA e como usar no trabalho, na '
              'equipe e na empresa, e termina com o primeiro exercício: um processo desmontado.',
         curso=('https://eventos.inema.pro/gestao-ia/', 'área Gestão de IA (cursos, projetos e vídeos)')),
+    'intelecto-estrutura': dict(
+        h1='Qualquer um constrói seu assistente Jarvis: <b>as 7 peças de um agente de IA.</b>',
+        title='INTELECTO: as 7 peças de um agente',
+        lead='Um assistente de IA pessoal cabe em umas três mil linhas e quatro arquivos de texto. Com o INTELECTO, o vídeo abre '
+             'peça por peça o que todo agente tem: o canal, o loop com freio, a identidade (SOUL, AGENTS, USER e MEMORY), o '
+             'cérebro na nuvem ou local, a memória, as ferramentas e o cofre de segurança, como os contratos deixam trocar cada '
+             'peça e como a mercearia de frameworks vira um documento que o Claude Code constrói. No próximo vídeo: configurar '
+             'os arquivos e instalar o seu, passo a passo.',
+        curso=('https://inematds.github.io/intelecto/', 'projeto INTELECTO (mercearia, como construir e funcionalidades)')),
 }
 
 ID = sys.argv[1]
