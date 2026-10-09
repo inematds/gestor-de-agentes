@@ -29,6 +29,13 @@ META = {
              'O vídeo mostra o que a Anthropic faz com as pessoas e com a própria IA — a constituição do Claude — e o que isso '
              'ensina sobre gerir pessoas, processos e agentes em 2027, com a constituição do seu agente e o ciclo que o melhora.',
         curso=('https://inematds.github.io/empresas-2027-v62/', 'Empresas de 2027 v6.2 (curso, 9 aulas)')),
+    'consultoria-ia-na-pratica': dict(
+        h1='Consultoria de IA na prática: <b>como atuar em 2027 como consultor e mentor.</b>',
+        title='Consultoria de IA na prática',
+        lead='O seu próximo cliente não vai pedir um agente: vai perguntar por onde começar. O vídeo mostra o que é (e o que não é) '
+             'consultoria de IA, os dois chapéus de consultor e mentor, uma consultoria em cinco passos com um exemplo de clínica, '
+             'como se preparar a partir de agora e os três erros que derrubam.',
+        curso=('https://eventos.inema.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
 }
 
 ID = sys.argv[1]
