@@ -68,6 +68,22 @@ META = {
              'peça e como a mercearia de frameworks vira um documento que o Claude Code constrói. No próximo vídeo: configurar '
              'os arquivos e instalar o seu, passo a passo.',
         curso=('https://inematds.github.io/intelecto/', 'projeto INTELECTO (mercearia, como construir e funcionalidades)')),
+    'execucao-longa-pratica': dict(
+        h1='Seu agente trabalhando horas ou dias: <b>de forma segura.</b>',
+        title='Execução Longa na prática',
+        lead='Mandar um agente trabalhar dez horas sem método não funciona: ele se perde, refaz o que já fez ou se aprova '
+             'sozinho. O vídeo mostra, na prática, as três peças do kit aberto Execução Longa: o objetivo com prova de pronto '
+             '(goal.md e os cinco níveis do critério), o estado guardado em arquivos e os tetos e portões; os dois caminhos, '
+             'você acompanhando ou rodando sozinho com testes congelados; as faixas de contexto e o cache medido em sessões reais.',
+        curso=('https://eventos.inema.pro/execucao-longa/', 'área Execução Longa (kit, guia e cursos)')),
+    'inemaseo-pratica': dict(
+        h1='Seu site em destaque: <b>no Google, no Bing e nas IAs, sem ferramenta paga.</b>',
+        title='inemaSEO na prática',
+        lead='Escrever mais páginas não resolve se a fundação do site está quebrada. O vídeo mostra o inemaSEO, o método aberto '
+             'usado no ecossistema INEMA: os três princípios (fundação primeiro, só dado real, medido sem a marca), as 10 etapas '
+             'com os scripts, da auditoria ao aviso aos buscadores, o trabalho dos agentes com dois portões humanos, a cadência '
+             'e o plano B. O primeiro passo: o raio-x do seu site.',
+        curso=('https://eventos.inema.pro/inemaseo/', 'área inemaSEO (guia, scripts e cursos)')),
 }
 
 ID = sys.argv[1]
