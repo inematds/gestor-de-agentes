@@ -76,6 +76,14 @@ META = {
              '(goal.md e os cinco níveis do critério), o estado guardado em arquivos e os tetos e portões; os dois caminhos, '
              'você acompanhando ou rodando sozinho com testes congelados; as faixas de contexto e o cache medido em sessões reais.',
         curso=('https://eventos.inema.pro/execucao-longa/', 'área Execução Longa (kit, guia e cursos)')),
+    'intelecto-instalacao': dict(
+        h1='Seu Jarvis, construído por você: <b>sem escrever código.</b>',
+        title='INTELECTO: instale o seu Jarvis',
+        lead='Continuação de "as 7 peças de um agente": o caminho inteiro na tela. Escolher os ingredientes na mercearia do '
+             'INTELECTO e exportar o briefing, abrir o Claude Code ou o Codex na pasta e pedir para construir, ver os arquivos '
+             'que nascem e os quatro arquivos de identidade, provar com os testes e uma conversa no terminal, e os próximos '
+             'passos: Telegram, WhatsApp e uma VPS com Docker para ficar 24 horas no ar.',
+        curso=('https://inematds.github.io/intelecto/', 'projeto INTELECTO (mercearia, plano, guia e curso)')),
     'inemaseo-pratica': dict(
         h1='Seu site em destaque: <b>no Google, no Bing e nas IAs, sem ferramenta paga.</b>',
         title='inemaSEO na prática',
