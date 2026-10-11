@@ -3,5 +3,15 @@
     "url": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9.mp4",
     "srt": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9.srt",
     "duration": 795.94
+  },
+  "en": {
+    "url": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9-en.mp4",
+    "srt": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9-en.srt",
+    "duration": 572.73
+  },
+  "es": {
+    "url": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9-es.mp4",
+    "srt": "https://github.com/inematds/gestor-de-agentes/releases/download/video-v2.0.0/gestor-de-agentes-completo-16x9-es.srt",
+    "duration": 652.22
   }
 }
